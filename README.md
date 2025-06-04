@@ -7,8 +7,11 @@ Este projeto é uma versão estilizada do clássico jogo da cobrinha, desenvolvi
 ⚙️ 2. Funcionalidades:
 
 • Duas skins espaciais para escolher antes do jogo começar.
+
 • Controles intuitivos:
+
 	• Pressione S para iniciar.
+ 
 	• Use as setas ↑, ↓, ←, → para mover a cobrinha.
 • Coleta de estrelas para pontuar:
 	• Estrela comum vale 1 ponto.
